@@ -17,7 +17,7 @@
     "dependencies": {
         "@angular/common": "2.0.0-rc.4",
         "@angular/compiler": "2.0.0-rc.4",
-        "@angular/core": "2.0.0-rc.4",
+        "@angular/core": "10.2.5",
         "@angular/forms": "0.2.0",
         "@angular/http": "2.0.0-rc.4",
         "@angular/platform-browser": "2.0.0-rc.4",
@@ -44,13 +44,13 @@
         "zone.js": "^0.6.12"
     },
     "devDependencies": {
-        "babel-traverse": "6.9.0",
+        "babel-traverse": "6.26.0",
         "babel-types": "6.9.0",
         "babylon": "6.8.0",
         "filewalker": "0.1.2",
         "lazy": "1.0.11",
         "nativescript-dev-typescript": "^0.3.2",
-        "shelljs": "^0.5.3",
+        "shelljs": "^0.8.5",
         "typescript": "1.8.10"
     }
 }
